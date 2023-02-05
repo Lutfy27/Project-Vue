@@ -1,0 +1,42 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+td {
+    font-size: large;
+}
+
+th {
+    font-size: larger;
+}
+
+li {
+    font-size: larger;
+}
+
+#batas {
+    margin-top: 150px;
+}
+
+#batas2 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#lebar {
+    width: 50px;
+    text-align: center;
+}
+
+.card {
+    background-color: #ECF9FF;
+}
+
+table {
+    background-color: #FFFBEB;
+}
